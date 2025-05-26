@@ -32,11 +32,4 @@ pip install -r requirements.txt
 - Feature importance analysis
 - Business insights for reducing churn
 
-#### **Contributors**
-- Your Name
-- Collaborators (if any)
 
-#### **License**
-Specify the license (MIT, Apache, etc.)
-
-Would you like me to refine any sections or add more details? 😊
